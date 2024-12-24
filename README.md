@@ -19,3 +19,7 @@ Here are some ideas to get you started:
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@c004112/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@c004112/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@c004112/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@c004112/1" alt="Recent Article 1"> 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/c004245?pet-id=1" width="1000" height="120"/>
+</a>
